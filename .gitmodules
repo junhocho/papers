@@ -4,6 +4,6 @@
 [submodule "dennybritz_notes"]
 	path = dennybritz_notes
 	url = https://github.com/dennybritz/deeplearning-papernotes.git
-[submodule "magenta_reviews"]
-	path = magenta_reviews
+[submodule "magenta_review"]
+	path = magenta_review
 	url = https://github.com/tensorflow/magenta.git
