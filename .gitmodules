@@ -1,3 +1,9 @@
 [submodule "aleju_papers"]
 	path = aleju_papers
 	url = https://github.com/aleju/papers.git
+[submodule "dennybritz_notes"]
+	path = dennybritz_notes
+	url = https://github.com/dennybritz/deeplearning-papernotes.git
+[submodule "magenta_reviews"]
+	path = magenta_reviews
+	url = https://github.com/tensorflow/magenta.git
