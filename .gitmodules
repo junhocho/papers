@@ -1,0 +1,3 @@
+[submodule "papers"]
+	path = aleju_papers
+	url = https://github.com/aleju/papers.git
